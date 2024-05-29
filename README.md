@@ -32,3 +32,4 @@
    ```
 3. 如果想要正确验证的话，需要两个app register，一个是客户端，一个接收端（audience)。 同时scope也就是audience对应的url，正确格式：api://cd5347aa-d60d-49f7-9877-e036b25c9f94/.default
 4. 在app service中配置audience 和scope的话，需要开启Authetication
+<img width="831" alt="Screenshot 2024-05-29 at 17 37 04" src="https://github.com/huqianghui/access_token_validate_poc/assets/7360524/600a7af1-9b68-4ad8-844e-41499711ca0c">
